@@ -75,4 +75,4 @@ Voici quelques ressources pour approfondir vos connaissances en Machine Learning
 Légende:
 - ⭐: pas (ou peu) de pré‑requis en ML/programmation/maths.
 - ⭐⭐: notions de base acquises; à l’aise avec Python + algèbre linéaire + probabilités.
-- ⭐⭐⭐: solide bagage mathématique (proba, stats, optimisation) et envie de rigueur théorique.
+- ⭐⭐⭐: solide bagage mathématique (analyse, probabilités, statistiques, optimisation) et envie de rigueur théorique.
