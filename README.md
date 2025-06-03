@@ -5,7 +5,7 @@ Cette formation a pour but d’explorer les concepts fondamentaux du machine lea
 
 ## Contenu
 
-Chaque répertoire ou fichier aborde un thème ou un algorithme particulier du ML. Voici un aperçu des sujets couverts :
+Chaque répertoire aborde un thème ou un algorithme particulier du ML. Voici un aperçu des sujets couverts :
 
 - Régression linéaire
 - Régression polynomiale
@@ -36,13 +36,13 @@ pip install -r requirements.txt
 
 ## Exécution des exercices
 
-Chaque dossier possède un fichier `main.py` que vous pouvez exécuter directement :
+Chaque dossier possède un fichier `main.py` que vous pouvez exécuter directement à partir de la racine du dépôt :
 
 ```bash
 python src/linear_regression/main.py      # exemple
 ```
 
-> Remplacez le chemin par celui de l'exercice que vous souhaitez lancer.
+Remplacez le chemin par celui de l'exercice que vous souhaitez lancer.
 
 ## Lancement des tests
 
@@ -57,3 +57,22 @@ Vous pouvez également exécuter un seul fichier de tests :
 ```bash
 pytest tests/test_linear_regression.py      # exemple
 ```
+
+## Pour aller plus loin
+
+Voici quelques ressources pour approfondir vos connaissances en Machine Learning au-delà de ce qui a été présenté dans ce dépôt:
+
+[MIT 6.036 - Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) ⭐⭐
+[MIT 6.S191 - Introduction to Deep Learning](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) ⭐⭐
+[MIT 18.657 - Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/download/) ⭐⭐⭐
+[PolyMTL INF8245E - Machine Learning (Vidéos)](https://www.youtube.com/watch?v=-6ChHxllZVU&list=PLImtCgowF_ETupFCGQqmvS_2nqErZbifm) ⭐⭐
+[PolyMTL INF8245E - Machine Learning (Notes)](https://drive.google.com/drive/folders/1xUqzxJK5NbAxUZOInpTBAAQk8iwKSKVS) ⭐⭐
+[PolyMTL INF8359DE - Reinforcement Learning](https://www.youtube.com/watch?v=J9JZyyPCJcQ&list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua) ⭐⭐
+[PolyMTL MTH3302 - Méthodes probabilistes et statistiques pour l'IA](https://github.com/decorJim/mth3302) ⭐⭐⭐
+[An Introduction to Statistical Learning — Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani](https://www.statlearning.com/) ⭐⭐
+[Statistical Learning Theory — Vladimir N. Vapnik](https://www.wiley.com/en-us/Statistical-Learning-Theory-9780471030034) ⭐⭐⭐
+
+Légende:
+- ⭐: pas (ou peu) de pré‑requis en ML/programmation/maths.
+- ⭐⭐: notions de base acquises; à l’aise avec Python + algèbre linéaire + probabilités.
+- ⭐⭐⭐: solide bagage mathématique (proba, stats, optimisation) et envie de rigueur théorique.
